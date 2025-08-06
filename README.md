@@ -12,7 +12,7 @@
 ## 📫 Como me encontrar 👇
 &nbsp;
  
-<a href="(https://www.linkedin.com/in/vitor-de-assis-0b9908260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="(www.linkedin.com/in/vitor-de-assis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:vitordeassis88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 &nbsp;
